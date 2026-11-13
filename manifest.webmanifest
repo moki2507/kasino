@@ -1,0 +1,17 @@
+{
+  "name": "Kasino – Spielgeld-Sammlung",
+  "short_name": "Kasino",
+  "description": "Sechs Kasino-Spiele mit reinem Spielgeld. Kein echtes Geld, nichts zu kaufen.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c2219",
+  "theme_color": "#0c2219",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
